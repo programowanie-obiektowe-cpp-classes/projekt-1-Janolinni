@@ -353,4 +353,4 @@ int main() {
         std::cout << "Zbankrutowales";
     }
     return 0;
-    }
+    }};
